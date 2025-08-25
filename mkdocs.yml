@@ -1,7 +1,7 @@
 site_name: ChromeCollateral
 repo_url: https://github.com/FantasticRo/ChromeCollateral
 theme:
-  name: Lux
+  name: lux
   features:
     - navigation.instant
     - navigation.tracking
