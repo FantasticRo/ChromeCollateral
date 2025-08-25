@@ -1,3 +1,5 @@
+# ATR
+
 > For use setting better ranges
 
 what are atr bands?
