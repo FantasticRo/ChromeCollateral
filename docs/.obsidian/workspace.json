@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/workflows.md",
+                "file": "guides/Week Ending 8-24.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "workflows"
+              "title": "Week Ending 8-24"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/workflows.md",
+                "file": "guides/Week Ending 8-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for workflows"
+              "title": "Backlinks for Week Ending 8-24"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/workflows.md",
+                "file": "guides/Week Ending 8-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from workflows"
+              "title": "Outgoing links from Week Ending 8-24"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guides/workflows.md",
+                "file": "guides/Week Ending 8-24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of workflows"
+              "title": "Outline of Week Ending 8-24"
             }
           }
         ]
@@ -170,10 +170,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "65eb300adeda7f3d",
+  "active": "a20daa2aca4119eb",
   "lastOpenFiles": [
-    "guides/Week Ending 8-24.md",
     "guides/workflows.md",
+    "guides/Week Ending 8-24.md",
     "KB/api.md",
     "index.md",
     "KB/cli.md",

@@ -18,7 +18,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Guides:
-      - Week Ending 8-24: guides/shortcuts.md
+      - Week Ending 8-24: guides/Week Ending 8-24.md
       - Workflows: guides/workflows.md
   - KB:
       - CLI: KB/cli.md
