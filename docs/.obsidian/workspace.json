@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/api.md",
+                "file": "guides/workflows.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "api"
+              "title": "workflows"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KB/api.md",
+                "file": "guides/workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for api"
+              "title": "Backlinks for workflows"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KB/api.md",
+                "file": "guides/workflows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from api"
+              "title": "Outgoing links from workflows"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KB/api.md",
+                "file": "guides/workflows.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of api"
+              "title": "Outline of workflows"
             }
           }
         ]
@@ -172,11 +172,11 @@
   },
   "active": "65eb300adeda7f3d",
   "lastOpenFiles": [
+    "guides/Week Ending 8-24.md",
     "guides/workflows.md",
-    "guides/shortcuts.md",
+    "KB/api.md",
     "index.md",
     "KB/cli.md",
-    "KB/api.md",
     "Hello World/overview.md",
     "guides",
     "Guides/workflows.md",
