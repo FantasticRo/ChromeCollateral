@@ -18,18 +18,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-python@v5
-        with:
-            python-version: '3.x'
-      - run: pip install mkdocs mkdocs-material mkdocs-bootswatch
-      - run: mkdocs build --strict
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - run: pip install mkdocs mkdocs-material
+
+      - run: pip install mkdocs mkdocs-material mkdocs-bootswatch
+
+      # If mkdocs.yml is at repo root:
       - run: mkdocs build --strict
-      - run: echo > site/.nojekyll   # prevents Pages from treating it as Jekyll
+      # If it's NOT at root, replace the line above with:
+      # - run: mkdocs build --config-file ./docs/mkdocs.yml --site-dir ./site --strict
+
+      - run: echo > site/.nojekyll
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
