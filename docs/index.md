@@ -1,4 +1,5 @@
 
-# Welcome
+# Welcome to Chrome & Collateral
+%% sup chooms %%
 
-This site is built with **MkDocs Material** and deployed by GitHub Pages. 
+A collection of my thoughts and learnings in the DeFi space
