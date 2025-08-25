@@ -1,18 +1,11 @@
-site_name: ChromeCollateral
-repo_url: https://github.com/FantasticRo/ChromeCollateral
-theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - content.code.copy
-    - search.suggest
-    - search.highlight
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - tables
-  - attr_list
 nav:
   - Home: index.md
+  - Getting Started:
+      - Overview: getting-started/overview.md
+      - Setup: getting-started/setup.md
+  - Guides:
+      - Shortcuts: guides/shortcuts.md
+      - Workflows: guides/workflows.md
+  - Reference:
+      - CLI: reference/cli.md
+      - API: reference/api.md
