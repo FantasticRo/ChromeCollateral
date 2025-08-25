@@ -1,7 +1,7 @@
 site_name: ChromeCollateral
 repo_url: https://github.com/FantasticRo/ChromeCollateral
 theme:
-  name: lux
+  name: material
   features:
     - navigation.instant
     - navigation.tracking
@@ -16,12 +16,9 @@ markdown_extensions:
   - attr_list
 nav:
   - Home: index.md
-  - Getting Started:
-      - Overview: getting-started/overview.md
-      - Setup: getting-started/setup.md
   - Guides:
-      - Shortcuts: guides/shortcuts.md
-      - Workflows: guides/workflows.md
-  - Reference:
-      - CLI: reference/cli.md
-      - API: reference/api.md
+      - WeekEnd824: Guides/shortcuts.md
+      - Workflows: Guides/workflows.md
+  - KB:
+      - CLI: KB/cli.md
+      - API: KB/api.md
