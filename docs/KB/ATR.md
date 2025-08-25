@@ -1,15 +1,15 @@
-# ATR
+# ATR bands
 
-> For use setting better ranges
+> For use setting better LP ranges
 
 what are atr bands?
-### 📏 **What is ATR (Average True Range)?**
+## 📏 **What is ATR (Average True Range)?**
 
 ATR measures **volatility**, not direction. It tells you how much an asset typically moves (up or down) over a period. Higher ATR = more volatility.
 
 ---
 
-### 🎯 **What Are ATR Bands?**
+## 🎯 **What Are ATR Bands?**
 
 ATR bands are **dynamic price bands** placed **above and below a moving average**, usually calculated like this:
 
@@ -27,7 +27,7 @@ Common settings:
 
 ---
 
-### 🧠 **How Do Traders Use ATR Bands?**
+## 🧠 **How Do Traders Use ATR Bands?**
 
 #### 1. **Volatility Zones**
 
@@ -54,7 +54,7 @@ Common settings:
 
 ---
 
-### 📉 Example:
+## 📉 Example:
 
 If BTC is trading at $60K, and its 14-day ATR is $2K:
 
@@ -67,7 +67,7 @@ If price surges to $63K, you're now **outside** the normal volatility envelope�
 
 ---
 
-### 🧙 Bonus Tip:
+## 🧙 Bonus Tip:
 
 ATR bands are **volatility-reactive**, unlike Bollinger Bands which are **standard deviation-based**. That makes ATR bands extra useful in **non-normal** markets or **crypto**, where things don’t follow the rules and never say sorry.
 
