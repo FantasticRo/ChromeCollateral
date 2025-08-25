@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/shortcuts.md",
-                "mode": "source",
-                "source": false
+                "file": "index.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shortcuts"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shortcuts"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shortcuts"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guides/shortcuts.md",
+                "file": "Hello World/overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shortcuts"
+              "title": "Outline of overview"
             }
           }
         ]
@@ -169,14 +168,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "65eb300adeda7f3d",
+  "active": "a20daa2aca4119eb",
   "lastOpenFiles": [
+    "guides/workflows.md",
+    "guides/shortcuts.md",
+    "guides",
+    "index.md",
+    "KB/api.md",
     "Guides/workflows.md",
     "Guides/shortcuts.md",
     "Hello World/overview.md",
-    "index.md",
     "Hello World/setup.md",
-    "KB/api.md",
     "KB/cli.md"
   ]
 }
