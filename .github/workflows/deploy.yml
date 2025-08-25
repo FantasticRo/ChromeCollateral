@@ -22,3 +22,5 @@ jobs:
           github_token: \${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
+      - run: |
+          echo > site/.nojekyll
