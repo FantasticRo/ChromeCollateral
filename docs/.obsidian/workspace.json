@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -141,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello World/overview.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of overview"
+              "title": "Outline of index"
             }
           }
         ]
@@ -168,16 +170,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "a20daa2aca4119eb",
+  "active": "65eb300adeda7f3d",
   "lastOpenFiles": [
     "guides/workflows.md",
     "guides/shortcuts.md",
+    "Hello World/overview.md",
     "guides",
     "index.md",
     "KB/api.md",
     "Guides/workflows.md",
     "Guides/shortcuts.md",
-    "Hello World/overview.md",
     "Hello World/setup.md",
     "KB/cli.md"
   ]
