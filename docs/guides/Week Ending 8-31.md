@@ -123,7 +123,7 @@ _Implication:_ fade reflexive squeezes into unlocks; borrow hard-to-borrow where
 
 ---
 
-## ## Ladder Strategy (BTC, ETH, SOL, JUP, AERO, SUI)
+## Ladder Strategy (BTC, ETH, SOL, JUP, AERO, SUI)
 
 |Asset|Current Cycle Position|What That Means|Strategy|
 |---|---|---|---|
@@ -160,6 +160,7 @@ _Implication:_ fade reflexive squeezes into unlocks; borrow hard-to-borrow where
 - **SOL & JUP**: Lean exposure but with structured scaling; respect technical thresholds.
     
 - **AERO & SUI**: High risk/high reward; keep sizing tight, entries small, exits pre-defined.
+
 ---
 
 ## Non-Obvious Observations (from your long-running analysis notes)
